@@ -16,7 +16,7 @@ Home | GetStudyMaterial
 <div class="navbar">
 <div class="topnav">
   <a class="active" href="https://getstudymaterial.github.io/">Home</a>
-  <a   href="./Cureent_Affairs">Current Affairs</a>
+  <a   href="./Current_Affairs">Current Affairs</a>
   <a href="./Humanities">Humanities</a>
   
  <a href="./Science">Science</a>
