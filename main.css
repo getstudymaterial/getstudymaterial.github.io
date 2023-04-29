@@ -339,3 +339,6 @@ border-right:1px solid #999;
   background-color: #04AA6D;
   color: white;
 }
+@font-face
+{font-family: "EB GARAMOND";
+src: url("https://www.fontsquirrel.com/fonts/eb-garamond")}
