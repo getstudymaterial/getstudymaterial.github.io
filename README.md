@@ -5,9 +5,12 @@
     <title>Home | GetStudyMaterial</title>
     <link href="main.css" rel="stylesheet" type="text/css" />
     <script src="java.js" type="text/javascript"></script>
-    <style>
-       
-    </style>
+      <link rel=" icon" href="/GetStudyMaterial.ICO" type="image/x-icon"/>
+<link rel="shortcut icon" href="/GetStudyMaterial.ICO" type="image/x-icon"/>
+<meta name="description" content="This is a website for one and all and it aims on providing study material especially for students belonging to the HUMANITIES stream. The study material pertains to the Humanities subjects and besides that focuses on skill development with resource materials such as, courses, videos and even books and articles."/>
+<meta property="og:image" content="https://i.imgur.com/wnk7Fxm.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png"/>
 </head>
 <body>
 <nav id="ddmenu">
