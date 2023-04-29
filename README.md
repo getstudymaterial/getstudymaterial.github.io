@@ -16,7 +16,7 @@
         <li class="full-width">
             
                      
-        <li class="no-sub"><a class="top-heading" class="active" href="https://getstudymaterial.github.io">Home</a></li>
+        <li class="no-sub"><a class="top-heading" href="https://getstudymaterial.github.io">Home</a></li>
         <li>
             <a class="top-heading" a href="https://getstudymaterial.github.io/Humanities">Humanities</a>
             <i class="caret"></i>
