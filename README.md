@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -54,7 +54,7 @@
         </li>
        
         <li>
-            <a class="top-heading" a href="https://getstudymaterial.github.io/Learn_Skills">Learn Skills</a
+            <a class="top-heading" a href="https://getstudymaterial.github.io/Learn_Skills">Learn Skills</a>
             <i class="caret"></i>
             <div class="dropdown center-aligned">
                 <div class="dd-inner">
@@ -71,6 +71,7 @@
         </li>
                 </div>
             </div>
+        </li>
         </li>
     </ul>
 </nav>
