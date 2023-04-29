@@ -79,7 +79,7 @@
     </ul>
 </nav>
 <h1 align="center" font-size="8"> HOME </h1><hr>
-    <div style="margin:50px auto 40px; width:device-width; font:normal 15px/20px Arial; color:white; background-color:rgba(0,0,0,0.5);padding:30px;">
+    <div style="margin:50px auto 40px; width:device-width; font-family: EB Garamond; color:white; background-color:rgba(0,0,0,0.5);padding:30px;">
         <h2>PURPOSE</h2>
         <p>This website is going to provide various resource materials such as books, articles, ePapers and eMagazines free of cost for the students especially belonging to the HUMANITIES stream. There are many websites out there serving the same purpose, so what's going to be different here?<p></p>
 I'll list what's going to be different: <ul>
