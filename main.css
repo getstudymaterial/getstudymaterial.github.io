@@ -8,6 +8,13 @@ body {
     color: #fffff8;
     max-width: 80%;
 }
+
+a:link,
+a:visited 
+{
+    color: inherit;
+}
+
 #ddmenu
 {
     display:block;
@@ -79,7 +86,7 @@ background-color:#205081;
 /* links of top-heading */
 #ddmenu a, #ddmenu a:link, #ddmenu a:hover
 {
-    color:inherit;
+    color:white;
 }
 #ddmenu a:hover
 {
@@ -156,7 +163,7 @@ background-color:#ccc \9;/*fallback for old IE*/
 
 #ddmenu ul ul
 { 
-    margin:0;padding:0;text-align:left;width:auto;background:none;border:none;display:block;position:static;z-index:0;border-radius:0;
+    margin:0;padding:0;text-align:left;width:auto;background:none;border:none;display:grid;position:static;z-index:0;border-radius:0;
 }
 
 #ddmenu ul ul li
@@ -165,7 +172,7 @@ background-color:#ccc \9;/*fallback for old IE*/
     padding:6px 0; /*It determines the line height*/
     color:inherit;
     line-height:1;
-    margin:0;display:block;position:static;background:none;border:none;transition:none;border-radius:0;
+    margin:0;display:grid;position:static;background:none;border:none;transition:none;border-radius:0;
 }
   
 /* links in sub menu
@@ -335,10 +342,14 @@ border-right:1px solid #999;
     #ddmenu .menu-icon-active::before {
         border-color: #eee;
     }
-.active{
-  background-color: #04AA6D;
-  color: white;
-}
-@font-face
-{font-family: "EB GARAMOND";
-src: url("https://www.fontsquirrel.com/fonts/eb-garamond")}
+
+
+
+
+
+
+
+
+
+
+
