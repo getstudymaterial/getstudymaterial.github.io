@@ -115,4 +115,4 @@ be reliable, therefore no need to worry about that. </p>
 <p align ="center">~ Aristotle</p>
 <p>"Formal education will make you a living; self-education will make you a fortune." </p> 
 <p align ="center">~ Jim Rohn </p>
-<h2> Keep Learning! </p>
+<h2> Keep Learning! </h2>
