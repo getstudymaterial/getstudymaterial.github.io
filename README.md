@@ -37,7 +37,7 @@
             <div class="dropdown">
                 <div class="dd-inner">
                     <ul class="column">
-                       <li><h3>Humanities, Arts and Social Sciences</h3></li>
+                      
                        <li><a href="https://getstudymaterial.github.io/HASS/Subjects_And_Books">Subjects And Books</a></li>
                         <li><a href="https://getstudymaterial.github.io/HASS/Scope">Scope</a></li>
                         <li><a href="https://getstudymaterial.github.io/HASS/Professions">Professions</a></li>
