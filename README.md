@@ -32,12 +32,12 @@
                      
         <li class="no-sub"><a class="top-heading" href="https://getstudymaterial.github.io">Home</a></li>
         <li>
-           <a class="top-heading" class="active" a href="https://getstudymaterial.github.io/HASS">HASS</a>
+           <a class="top-heading"  a href="https://getstudymaterial.github.io/HASS">HASS</a>
             <i class="caret"></i>
             <div class="dropdown">
                 <div class="dd-inner">
                     <ul class="column">
-                      
+                      <li><h3>Humanities, Arts and Social Sciences</h3></li>
                        <li><a href="https://getstudymaterial.github.io/HASS/Subjects_And_Books">Subjects And Books</a></li>
                         <li><a href="https://getstudymaterial.github.io/HASS/Scope">Scope</a></li>
                         <li><a href="https://getstudymaterial.github.io/HASS/Professions">Professions</a></li>
