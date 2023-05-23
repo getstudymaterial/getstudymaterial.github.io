@@ -47,8 +47,7 @@
                         <li><a href="./Current_Affairs/ePapers">ePapers</a></li>
                         <li><a href="./Current_Affairs/eMagazines">eMagazines</a></li>
                         <li><a href="./Current_Affairs/Articles">Articles</a></li>
-                        <li><a href="./Current_Affairs/International">International</a></li>
-                        <li><a href="./Current_Affairs/National">National</a></li>
+                       
                        
                     </ul>
                    
@@ -67,7 +66,7 @@
                         <li><a href="./Learn_Skills/Public_Speaking">Public Speaking</a></li>
                         <li><a href="./Learn_Skills/Writing">Writing</a></li>
                         <li><a href="./Learn_Skills/Videography">Videography</a></li>
-                        <li><a href="./Learn_Skills/Calligraphy">Calligraphy</a></li>
+                        <li><a href="./Learn_Skills/Other_Skills">Other Skills</a></li>
                     </ul>
  <li class="no-sub">
             <a class="top-heading" href="https://getstudymaterial.github.io/About">About</a>
@@ -115,4 +114,4 @@ be reliable, therefore no need to worry about that. </p>
 <p align ="center">~ Aristotle</p>
 <p>"Formal education will make you a living; self-education will make you a fortune." </p> 
 <p align ="center">~ Jim Rohn </p>
-    <h2> Keep Learning! </h2>
+<h2> Keep Learning! </h2>
