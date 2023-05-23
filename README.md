@@ -9,17 +9,6 @@
 <link rel="shortcut icon" href="/GetStudyMaterial.ICO" type="image/x-icon"/>
 <meta name="description" content="This is a website for one and all and it aims on providing study material especially for students belonging to the HUMANITIES stream. The study material pertains to the Humanities subjects and besides that focuses on skill development with resource materials such as, courses, videos and even books and articles."/>
 <meta property="og:image" content="https://i.imgur.com/wnk7Fxm.png">
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home | GetStudyMaterial</title>
-    <link href="main.css" rel="stylesheet" type="text/css" />
-    <script src="java.js" type="text/javascript"></script>
-      <link rel=" icon" href="/GetStudyMaterial.ICO" type="image/x-icon"/>
-<link rel="shortcut icon" href="/GetStudyMaterial.ICO" type="image/x-icon"/>
-<meta name="description" content="This is a website for one and all and it aims on providing study material especially for students belonging to the HUMANITIES stream. The study material pertains to the Humanities subjects and besides that focuses on skill development with resource materials such as, courses, videos and even books and articles."/>
-<meta property="og:image" content="https://i.imgur.com/wnk7Fxm.png">
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png"/>
 <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png"/>
 </head>
@@ -32,7 +21,7 @@
                      
         <li class="no-sub"><a class="top-heading" href="https://getstudymaterial.github.io">Home</a></li>
         <li>
-            <a class="top-heading" class="active" >HASS</a>
+           <a class="top-heading" >HASS</a>
             <i class="caret"></i>
             <div class="dropdown">
                 <div class="dd-inner">
@@ -48,17 +37,18 @@
             </div>
         </li>
         <li>
-            <a class="top-heading" >Current Affairs</a>
+            <a class="top-heading"> Current Affairs </a>
             <i class="caret"></i>
             <div class="dropdown">
                 <div class="dd-inner">
                    
                     <ul class="column">
                      
-                        <li><a href="https://getstudymaterial.github.io/Current_Affairs/ePapers">ePapers</a></li>
-                        <li><a href="https://getstudymaterial.github.io/Current_Affairs/eMagazines">eMagazines</a></li>
-                        <li><a href="https://getstudymaterial.github.io/Current_Affairs/Articles">Articles</a></li>
-                        
+                        <li><a href="./Current_Affairs/ePapers">ePapers</a></li>
+                        <li><a href="./Current_Affairs/eMagazines">eMagazines</a></li>
+                        <li><a href="./Current_Affairs/Articles">Articles</a></li>
+                        <li><a href="./Current_Affairs/International">International</a></li>
+                        <li><a href="./Current_Affairs/National">National</a></li>
                        
                     </ul>
                    
@@ -67,23 +57,24 @@
         </li>
        
         <li>
-            <a class="top-heading" >Learn Skills</a>
+            <a class="top-heading"> Learn Skills</a>
             <i class="caret"></i>
             <div class="dropdown center-aligned">
                 <div class="dd-inner">
                   
                     <ul class="column">
-                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Coding">Coding</a></li>
-                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Public_Speaking">Public Speaking</a></li>
-                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Writing">Writing</a></li>
-                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Videography">Videography</a></li>
-                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Other_Skills">Other Skills</a></li>
+                        <li><a href="./Learn_Skills/Coding">Coding</a></li>
+                        <li><a href="./Learn_Skills/Public_Speaking">Public Speaking</a></li>
+                        <li><a href="./Learn_Skills/Writing">Writing</a></li>
+                        <li><a href="./Learn_Skills/Videography">Videography</a></li>
+                        <li><a href="./Learn_Skills/Calligraphy">Calligraphy</a></li>
                     </ul>
  <li class="no-sub">
             <a class="top-heading" href="https://getstudymaterial.github.io/About">About</a>
         </li>
                 </div>
             </div>
+        </li>
         </li>
     </ul>
 </nav>
@@ -124,5 +115,4 @@ be reliable, therefore no need to worry about that. </p>
 <p align ="center">~ Aristotle</p>
 <p>"Formal education will make you a living; self-education will make you a fortune." </p> 
 <p align ="center">~ Jim Rohn </p>
-<h2> Keep Learning!
-       
+<h2> Keep Learning! </p>
