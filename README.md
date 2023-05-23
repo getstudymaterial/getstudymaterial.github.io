@@ -32,12 +32,12 @@
                      
         <li class="no-sub"><a class="top-heading" href="https://getstudymaterial.github.io">Home</a></li>
         <li>
-           <a class="top-heading"  a href="https://getstudymaterial.github.io/HASS">HASS</a>
+            <a class="top-heading" class="active" >HASS</a>
             <i class="caret"></i>
             <div class="dropdown">
                 <div class="dd-inner">
                     <ul class="column">
-                      <li><h3>Humanities, Arts and Social Sciences</h3></li>
+                       <li><h3>Humanities, Arts and Social Sciences</h3></li>
                        <li><a href="https://getstudymaterial.github.io/HASS/Subjects_And_Books">Subjects And Books</a></li>
                         <li><a href="https://getstudymaterial.github.io/HASS/Scope">Scope</a></li>
                         <li><a href="https://getstudymaterial.github.io/HASS/Professions">Professions</a></li>
@@ -48,18 +48,17 @@
             </div>
         </li>
         <li>
-            <a class="top-heading" a href="https://getstudymaterial.github.io/Current_Affairs">Current Affairs </a>
+            <a class="top-heading" >Current Affairs</a>
             <i class="caret"></i>
             <div class="dropdown">
                 <div class="dd-inner">
                    
                     <ul class="column">
                      
-                        <li><a href="./Current_Affairs/ePapers">ePapers</a></li>
-                        <li><a href="./Current_Affairs/eMagazines">eMagazines</a></li>
-                        <li><a href="./Current_Affairs/Articles">Articles</a></li>
-                        <li><a href="./Current_Affairs/International">International</a></li>
-                        <li><a href="./Current_Affairs/National">National</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Current_Affairs/ePapers">ePapers</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Current_Affairs/eMagazines">eMagazines</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Current_Affairs/Articles">Articles</a></li>
+                        
                        
                     </ul>
                    
@@ -68,17 +67,17 @@
         </li>
        
         <li>
-            <a class="top-heading" a href="https://getstudymaterial.github.io/Learn_Skills">Learn Skills</a>
+            <a class="top-heading" >Learn Skills</a>
             <i class="caret"></i>
             <div class="dropdown center-aligned">
                 <div class="dd-inner">
                   
                     <ul class="column">
-                        <li><a href="./Learn_Skills/Coding">Coding</a></li>
-                        <li><a href="./Learn_Skills/Public_Speaking">Public Speaking</a></li>
-                        <li><a href="./Learn_Skills/Writing">Writing</a></li>
-                        <li><a href="./Learn_Skills/Videography">Videography</a></li>
-                        <li><a href="./Learn_Skills/Calligraphy">Calligraphy</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Coding">Coding</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Public_Speaking">Public Speaking</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Writing">Writing</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Videography">Videography</a></li>
+                        <li><a href="https://getstudymaterial.github.io/Learn_Skills/Other_Skills">Other Skills</a></li>
                     </ul>
  <li class="no-sub">
             <a class="top-heading" href="https://getstudymaterial.github.io/About">About</a>
@@ -86,13 +85,12 @@
                 </div>
             </div>
         </li>
-        </li>
     </ul>
 </nav>
 <h1 align="center" font-size="8"> HOME </h1><hr>
 <h2><i> "Educate, Organise, Agitate"</i> </h2>
  <h2 align ="center">~ Dr. B.R, Ambedkar</h2>
-    <div style="margin:50px auto 40px; width:device-width; font-family: EB Garamond 12 Regular; color:white; background-color:rgba(0,0,0,0.5);padding:30px;">
+    <div style="margin:50px auto 40px; width:device-width; font-family: EB Garamond 12 Regular; color:white; background-color:#825AC5; padding:30px; border-radius:20px;">
  
         <h2>PURPOSE</h2>
         <p >This website is going to provide various resource materials such as books, articles, ePapers and eMagazines free of cost for the students especially belonging to the HASS(Humanities, arts, and social sciences) acdemic discipline. There are many websites out there serving the same purpose, so what's going to be different here?</p>
