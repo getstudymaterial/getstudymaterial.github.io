@@ -46,14 +46,14 @@ border-radius:4px;
 #ddmenu li
 {
     margin:0;
-    padding:0;
+    
     font-size:16px;
     display:inline-block;
    
     zoom:1; /*for IE6-7*/
     position:relative;
     color:#eee;
-    line-height:46px; /*This determines the height of the menu*/
+    line-height:26px; /*This determines the height of the menu*/
     vertical-align:middle;
     transition:background-color 0.2s;
     outline:none;
@@ -79,7 +79,7 @@ background-color:#205081;
 #ddmenu .top-heading
 {
     font-weight:bold;
-    margin:0 16px;
+    
     color:inherit;
     text-decoration:none;
     display:inline-block; 
@@ -91,6 +91,8 @@ background-color:#205081;
 #ddmenu a, #ddmenu a:link, #ddmenu a:hover
 {
     color:white;
+padding: 15px;
+border: 0;
 }
 #ddmenu a:hover
 {
@@ -173,7 +175,7 @@ background-color:#ccc \9;/*fallback for old IE*/
 #ddmenu ul ul li
 {
     font-size:13px;
-    padding:6px 0; /*It determines the line height*/
+    padding:0px 0; /*It determines the line height*/
     color:white;
     line-height:1;
     margin:0;display:grid;position:static;background:none;border:none;transition:none;border-radius:0;
@@ -244,6 +246,15 @@ border-right:1px solid #999;
         display:none;
     }
 
+#ddmenu .top-heading {
+  font-weight: bold;
+  color: inherit;
+  text-decoration: none;
+  display: block;
+  outline: 0;
+  cursor: pointer;
+  margin: 0 10px;
+}
     /*override the original settings*/
     #ddmenu ul {
         width: 100%; 
@@ -259,7 +270,13 @@ border-right:1px solid #999;
         text-align:left;
         border-bottom: 1px solid rgba(0,0,0,0.2);
         border-radius:0;
+line-height: 35px;
     }
+
+#ddmenu a, #ddmenu a:link, #ddmenu a:hover {
+  color: white;
+  padding: 15px;
+  border: 0;} 
 
     #ddmenu .full-width {
         position: relative;
