@@ -79,7 +79,7 @@
 </nav>
 <h1 align="center" font-size="8"> HOME </h1><hr>
 <h2><i> "Educate, Organise, Agitate"</i> </h2>
- <h2 align ="center">~ Dr. B.R, Ambedkar</h2>
+ <h2 align ="center">~ Dr. B.R. Ambedkar</h2>
     <div style="margin:50px auto 40px; width:device-width; font-family: EB Garamond 12 Regular; color:white; background-color:#825AC5; padding:30px; border-radius:20px;">
  
         <h2>PURPOSE</h2>
