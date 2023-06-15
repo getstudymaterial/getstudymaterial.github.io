@@ -1,6 +1,10 @@
-
+@media (max-width: 380px) {
+  html {
+    font-size: 15px
+  }
+}
 body {
-    width: 80.5%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     padding-left: 0%;
@@ -9,7 +13,7 @@ background:relative;
 
 background-color: black;
     color: #fffff8;
-    max-width: 80%;
+    max-width: 85%;
 }
 
 a:link,
@@ -240,7 +244,7 @@ border-right:1px solid #999;
 
 
 /*styles for mobile*/
-@media only screen and (max-width: 750px) 
+@media only screen and (max-width: 850px) 
 {
     #ddmenu .column.mayHide {
         display:none;
