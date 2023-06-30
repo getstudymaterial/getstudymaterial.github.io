@@ -249,6 +249,9 @@ border-right:1px solid #999;
     #ddmenu .column.mayHide {
         display:none;
     }
+img {
+width: 80%;
+}
 
 #ddmenu .top-heading {
   font-weight: bold;
