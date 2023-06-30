@@ -249,6 +249,9 @@ border-right:1px solid #999;
     #ddmenu .column.mayHide {
         display:none;
     }
+img {
+width: 80%;
+}
 
 #ddmenu .top-heading {
   font-weight: bold;
@@ -377,6 +380,14 @@ line-height: 35px;
   flex-wrap: wrap;
 }
 
+table, th, td {
+  border: 1px solid white;
+padding: 8px;
+margin: 5px;
+width:device-width;
+background-color: rgba(0,0,0,0.5);
+  border-collapse: collapse;
+}
 
 
 
