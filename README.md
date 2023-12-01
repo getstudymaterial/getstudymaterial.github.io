@@ -79,9 +79,16 @@
 </nav>
 <h1 align="center" font-size="8"> HOME </h1><hr>
 <h2><i> "Educate, Organise, Agitate"</i> </h2>
- <h2 align ="center">~ Dr. B.R. Ambedkar</h2>
-    <div style="margin:50px auto 40px; width:device-width; font-family: EB Garamond 12 Regular; color:white; background-color:#825AC5; padding:30px; border-radius:20px;">
- 
+ <h2 align ="center">~ Dr. B.R, Ambedkar</h2>
+    
+ <block>
+    
+<div class="container1">
+<div class="item3">
+<img src="https://i.imgur.com/1DKmKAK.jpg" width="250px">
+</div>
+
+<div class="item2">
         <h2>PURPOSE</h2>
         <p >This website is going to provide various resource materials such as books, articles, ePapers and eMagazines free of cost for the students especially belonging to the HASS(Humanities, arts, and social sciences) acdemic discipline. There are many websites out there serving the same purpose, so what's going to be different here?</p>
 I'll list what's going to be different: <ul>
@@ -90,15 +97,20 @@ I'll list what's going to be different: <ul>
 <li> Material on demand.</li>
 <li> It's going to be a hub of many resources.</li>
         <li> Material from a to z.</li></ul>
-        <p> The material is going to
-be reliable, therefore no need to worry about that. </p>
-    </div>
+</div>
+</div>
+  </block>      
+    
+<div class="container">
+<div class="item1">
 <p> All the eminent personalities from the beginning of the revolution of knowledge in human epoch have emphasized on knowledge through education and research. A systematic approach was then introduced for the uniformity and credibility. Whatever remained the cause of opening of schools, (a social institution for educating multiple disciplines and ethics needed to live in the society) we all know that education system in India is almost doomed. The reason being the impotency of institution in curating the creative and critical thinking impulses among students. Schools have become more like a factory which try to produce the machinery which works uniformly yet each one of them is a defective piece. </p>
 <p> Schools these days embrace the scoring, be it the result of mugging up the syllabus or understanding. The perception of society has changed drastically or perhaps it was always like this, instead of learning experience they are attracted towards the higher selection and scoring institutions. They are prone to it because of the financial struggle but even affluent Indian class seems conservative in this case. </p>
 <p> The goal of this website as mentioned earlier is to provide free study material not for the scoring but for better understanding of the concepts and growing by learning about different subjects, skills and concepts. One should absolutely abhor the current education system for what it is producing and how it is ruining the future generations. The community is also to be blamed as teachers alone aren't responsible for teaching the virtue, the society itself is the greatest teacher of virtue.</p>
 <p> Instead of getting marks by hook or crook, It is appreciated that one embraces the journey of learning rather than the result. Life isn't about the scores or material possessions but learning. No pleasure can be compared with the pleasure of learning.</p>
 <p> I hope this website will be of some use to you and your friends. You are welcome here.</p> 
 <p>Keep learning!</p> 
+</div>
+<div class="item">
 <h2> Some quotes on education by famous personalities </h2>
 <p>"I have never let my schooling interfere with my education."</p>
 <p align ="center">~ Grant Allen</p>
@@ -114,4 +126,7 @@ be reliable, therefore no need to worry about that. </p>
 <p align ="center">~ Aristotle</p>
 <p>"Formal education will make you a living; self-education will make you a fortune." </p> 
 <p align ="center">~ Jim Rohn </p>
-<h2> Keep Learning! </h2>
+</div>
+</div>
+<kr>
+<h2 align="center"> Keep Learning! </h2>
