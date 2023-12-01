@@ -94,11 +94,14 @@ display:block;
             width: 20%;
             float: left;
 display:block;
-border: 1px solid white;
+
 opacity: 70%;
 padding:8px 13px;
 border-radius:15px;
 }
+.item3 img{ width:210px;
+border: 1px solid white;
+padding:8px 13px;}
 
 a:link,
 a:visited 
@@ -326,6 +329,26 @@ border-right:1px solid #999;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 1300px) 
 {
     #ddmenu .column.mayHide {
@@ -375,6 +398,56 @@ width:device-width;
 background-color: rgba(0,0,0,0.5);
   border-collapse: collapse;
 }
+
+.container1 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:40px;
+}
+ .item2 {margin-left:25px;
+            width: 60%;
+            float: left;
+display:block;
+
+
+        }
+ .item2 p{font-size:15px;
+
+        }
+.item3 img{ width:170px;}
+
+.item3 {margin-left:15px;
+            width: 20%;
+            float: left;
+display:block;
+
+opacity: 70%;
+padding:8px 13px;
+border-radius:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*styles for mobile*/
@@ -512,6 +585,16 @@ line-height: 35px;
   flex-wrap: wrap;
 }
 
+block{
+margin:50px auto 40px;
+ width:95%;
+ font-family: EB Garamond 12 Regular;
+ color:white; 
+background-color:grey;
+ padding:10px;
+ border-radius:10px; 
+display:block;
+}
 .container {
   width: 100%;
   display: flex;
@@ -553,6 +636,48 @@ background-color: rgba(0,0,0,0.5);
   border-collapse: collapse;
 }
 
+.container1 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:10px;
+}
+ .item2 {margin-left:25px;
+            width: 60%;
+            float: left;
+display:block;
+
+
+        }
+ .item2 p{font-size:11px;
+
+        }
+.item2 h2{font-size:15px;
+
+        }
+.item2 li{font-size:11px;
+
+        }
+
+.item3 img{ width:100px;
+padding:3px;}
+
+
+
+.item3 {margin-left:15px;
+            width: 20%;
+            float: left;
+display:block;
+
+opacity: 70%;
+padding:8px 13px;
+border-radius:15px;
+}
+
+
+
+
+
 
 
 
@@ -563,6 +688,18 @@ background-color: rgba(0,0,0,0.5);
     #ddmenu .column.mayHide {
         display:none;
     }
+
+
+block{
+margin:50px auto 40px;
+ width:90%;
+ font-family: EB Garamond 12 Regular;
+ color:white; 
+background-color:grey;
+ padding:10px;
+ border-radius:10px; 
+display:block;
+}
 
 .container {
   width: 100%;
@@ -595,6 +732,44 @@ padding:6px  15px;
 
 .item p{font-size:12px;
 }
+
+
+.container1 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:10px;
+}
+ .item2 {margin-left:10px;
+            width: 30%;
+            float: left;
+display:block;
+
+
+        }
+ .item2 p{font-size:10px;
+
+        }
+
+.item2 li{font-size:10px;
+
+        }
+
+.item3 img{ width:30px;
+padding:5px 5px;}
+
+
+
+.item3 {margin-left:5px;
+            width: 5%;
+            float: left;
+display:block;
+
+opacity: 70%;
+padding:5px 5px;
+border-radius:15px;
+}
+
 
 
 
