@@ -85,7 +85,7 @@
     
 <div class="container1">
 <div class="item3">
-<img src="https://i.imgur.com/1DKmKAK.jpg" width="250px">
+<img src="https://i.imgur.com/1DKmKAK.jpg">
 </div>
 
 <div class="item2">
