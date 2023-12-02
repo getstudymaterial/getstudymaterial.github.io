@@ -84,8 +84,8 @@
  <block>
     
 <div class="container1">
-<div class="item3">
-<img src="https://i.imgur.com/1DKmKAK.jpg">
+<div class="item3"> <div title= "Click to visit Ambedkar's Library">
+<a href="https://getstudymaterial.github.io/Ambedkar-Library"><img src="https://i.imgur.com/1DKmKAK.jpg"></a></div>
 </div>
 
 <div class="item2">
@@ -128,5 +128,5 @@ I'll list what's going to be different: <ul>
 <p align ="center">~ Jim Rohn </p>
 </div>
 </div>
-<kr>
+
 <h2 align="center"> Keep Learning! </h2>
