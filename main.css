@@ -33,7 +33,7 @@ border: 1px dashed white;}
   display: flex;
  flex-wrap: wrap;
 gap:30px;
-border:1px solid grey;
+
 padding:2px;
 }
  .item1 {margin-left:25px;
@@ -104,6 +104,42 @@ border-radius:15px;
 .item3 img{ width:210px;
 border: 1px solid white;
 padding:8px 13px;}
+
+.container3 {
+
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:20px;
+
+padding:2px;
+}
+ .item4 {margin-left:25px;
+            width: 60%;
+            float: left;
+
+}
+
+
+ .item5 {margin-left:25px;
+            width: 30%;
+            float: left;
+
+}
+
+
+
+
+iframe{width:300px;
+height:200px;
+border-radius:5px;}
+
+
+
+
+
+
+
 
 a:link,
 a:visited 
@@ -432,12 +468,32 @@ border-radius:15px;
 
 
 
+.container3 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:20px;
+
+padding:2px;
+}
+ .item4 {margin-left:25px;
+            width: 67%;
+            float: left;
+
+}
+
+
+ .item5 {margin-left:25px;
+            width: 23%;
+            float: left;
+
+}
 
 
 
 
-
-
+iframe{width:250px;
+height:150px;}
 
 
 
@@ -669,10 +725,44 @@ opacity: 70%;
 padding:8px 13px;
 border-radius:15px;
 }
+.container3 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:20px;
+
+padding:2px;
+}
+ .item4 {margin-left:25px;
+            width: 60%;
+            float: left;
+
+}
 
 
+ .item5 {margin-left:25px;
+            width: 25%;
+            float: left;
+
+}
+ .item5 h2 {font-size:20px;
+}
+
+ .item4 h2 {font-size:20px;
+}
+
+iframe{width:200px;
+height:100px;}
 
 
+ .item5 h3{font-size:18px;
+}
+
+ .item5 p{font-size:16px;
+}
+
+ .item5 li{font-size:16px;
+}
 
 
 
@@ -770,3 +860,42 @@ background-color: rgba(0,0,0,0.5);
   border-collapse: collapse;
 }
 
+
+
+
+.container3 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:20px;
+
+padding:2px;
+}
+ .item4 {margin-left:25px;
+            width: 55%;
+            float: left;
+
+}
+
+
+ .item5 {margin-left:25px;
+            width: 15%;
+            float: left;
+
+}
+ .item5 h2 {font-size:15px;
+}
+
+ .item4 h2 {font-size:15px;
+}
+iframe{width:170px;
+height:100px;}
+
+ .item5 h3{font-size:16px;
+}
+
+ .item5 p{font-size:14px;
+}
+
+ .item5 li{font-size:14px;
+}
